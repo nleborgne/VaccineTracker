@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vaccine-tracker/static/css/main.6d1f356d.chunk.css",
+    "main.js": "/vaccine-tracker/static/js/main.4654dcfc.chunk.js",
+    "main.js.map": "/vaccine-tracker/static/js/main.4654dcfc.chunk.js.map",
+    "runtime-main.js": "/vaccine-tracker/static/js/runtime-main.8e92a4ce.js",
+    "runtime-main.js.map": "/vaccine-tracker/static/js/runtime-main.8e92a4ce.js.map",
+    "static/js/2.69328f21.chunk.js": "/vaccine-tracker/static/js/2.69328f21.chunk.js",
+    "static/js/2.69328f21.chunk.js.map": "/vaccine-tracker/static/js/2.69328f21.chunk.js.map",
+    "static/js/3.c93cf1c3.chunk.js": "/vaccine-tracker/static/js/3.c93cf1c3.chunk.js",
+    "static/js/3.c93cf1c3.chunk.js.map": "/vaccine-tracker/static/js/3.c93cf1c3.chunk.js.map",
+    "index.html": "/vaccine-tracker/index.html",
+    "static/css/main.6d1f356d.chunk.css.map": "/vaccine-tracker/static/css/main.6d1f356d.chunk.css.map",
+    "static/js/2.69328f21.chunk.js.LICENSE.txt": "/vaccine-tracker/static/js/2.69328f21.chunk.js.LICENSE.txt",
+    "static/media/vaccine.e41336cc.png": "/vaccine-tracker/static/media/vaccine.e41336cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e92a4ce.js",
+    "static/js/2.69328f21.chunk.js",
+    "static/css/main.6d1f356d.chunk.css",
+    "static/js/main.4654dcfc.chunk.js"
+  ]
+}
