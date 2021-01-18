@@ -2,6 +2,7 @@
   "name": "vaccine-tracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nleborgne.github.io/vaccine-tracker",
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
@@ -24,7 +25,9 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +48,6 @@
     ]
   },
   "devDependencies": {
-    "jest": "^26.6.3"
+    "gh-pages": "^3.1.0"
   }
 }
