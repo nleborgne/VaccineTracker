@@ -2,7 +2,7 @@
   "name": "vaccine-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nleborgne.github.io/vaccine-tracker",
+  "homepage": "https://nleborgne.github.io/VaccineTracker",
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.34",

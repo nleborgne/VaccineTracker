@@ -65,7 +65,7 @@ class Navbar extends React.Component {
               <div className="hidden sm:block sm:ml-6">
                 <div className="flex space-x-4">
                   <a
-                    href=""
+                    href="https://nleborgne.github.io/VaccineTracker"
                     className="bg-white text-gray-600 border-b-2 border-green-400 py-5 text-sm font-medium"
                   >
                     Dashboard
@@ -79,7 +79,7 @@ class Navbar extends React.Component {
         <div id="mobile-menu" className="hidden sm:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1">
             <a
-              href="#"
+              href="https://nleborgne.github.io/VaccineTracker/"
               className="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
             >
               Dashboard
